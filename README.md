@@ -1,5 +1,5 @@
-# LaneDetection
+# How to use Pytorch
 - - - 
-this repository is for learning pycharm.
+this repository is for learning **Pytorch**.
 
-Pycharm things are going to be uploaded.
+**Pytorch** things are going to be uploaded.
